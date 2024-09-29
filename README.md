@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @CraftsionBoo
-- 👀 I’m interested in ROS,DL,RL
-- 🌱 I’m currently learning c++ and python
+- 👀 I’m interested in Robot
 - 📫 How to reach me 574461760@qq.com
 
 <!---
