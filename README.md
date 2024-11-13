@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @CraftsionBoo
-- 👀 I’m interested in Robot
-- 📫 How to reach me 574461760@qq.com
+- 👋 Hi, I’m @CR-Bo
+- 👀 Focus on Robotic.
+- 📫 All depends on the mind
 
 <!---
 CraftsionBoo/CraftsionBoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
